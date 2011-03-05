@@ -1,9 +1,10 @@
 {
     "name": "meemithis", 
     "license": "MPL 1.1/GPL 2.0/LGPL 2.1", 
-    "author": "", 
+    "author": "Giustino Borzacchiello",
+    "icon" : "data/img/favicon.png",
     "version": "0.1", 
     "fullName": "meemithis", 
     "id": "jid0-16eobn4JfXqrt7oEV8z1x7fyGeo", 
-    "description": "a basic add-on"
+    "description": "Condividi testi e citazioni su Meemi"
 }
