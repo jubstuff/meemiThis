@@ -5,7 +5,7 @@ stralci di testo e immagini, mentre navighi, con un semplice clic!
 
 ##Installazione
 
-Per funzionare MeemiThis! richiede Firefox 4.
+Per funzionare MeemiThis! richiede [Firefox 4](http://www.mozilla.com/en-US/firefox/beta/).
 
 
 ##Configurazione
