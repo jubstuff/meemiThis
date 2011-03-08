@@ -1,5 +1,7 @@
-var form = document.getElementById('preferences');
-
+/*
+ * MeemiThis!
+ * Content script for preferences panel
+ */
 self.on('message', function(){
     console.log("Panel started");  
     var form = document.getElementById('preferences');
